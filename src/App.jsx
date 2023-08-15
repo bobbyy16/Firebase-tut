@@ -1,5 +1,11 @@
+import Auth from "./components/auth"
+
 function App() {
-  return null
+  return (
+    <>
+      <Auth/>
+    </>
+  )
 }
 
 export default App
